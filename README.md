@@ -1,5 +1,11 @@
 # Simulacao e Modelagem de Sistemas - 01/2025 - CESUCA
 
+## Participantes:
+- João Gabriel Abreu
+- Gabriel Braun
+- Leonardo Lhul Aguiar
+- Mikaela Guedes
+
 ## Sobre o programa:
 > - Realiza a simulação com parâmetros conforme passado no exercício
 > - Utiliza Java 21 para sua execução (mas provavelmente irá rodar em Java 8+)

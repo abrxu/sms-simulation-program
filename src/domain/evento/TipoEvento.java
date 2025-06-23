@@ -1,8 +1,8 @@
-package domain;
+package domain.evento;
 
 public enum TipoEvento {
-
-    ENTRADA,
+    CHEGADA,
     SAIDA
-
 }
+
+
